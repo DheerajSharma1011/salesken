@@ -1,0 +1,62 @@
+.mainbtn{
+  margin-left:40%;
+  margin-top:1%;
+}
+.btn1{
+  background-color: white;
+  border: 2px solid skyblue;
+  border-radius: 0.9rem;
+  width: 4rem;
+  height: 1.8rem;
+}
+.btn2{
+  background-color: white;
+  border: 2px solid skyblue;
+  border-radius: 40%;
+  width: 4.5rem;
+  height: 3.5rem; 
+}
+.btn3{
+    background-color: white;
+  border: 2px solid skyblue;
+  border-radius: 0.9rem;
+  width: 4rem;
+  height: 1.8rem;
+}
+label{
+  color: grey;
+  font-size: 14px;
+}
+.bargrid{
+    max-width:900px;
+    width:90%;
+    margin:0px 10% 0px;
+    position:relative;
+}
+.flex{
+    margin-top:-72px;
+}
+svg rect{
+    position: relative;
+    z-index:1;
+    top:5%;
+    bottom:5%;
+    height:25px;
+    fill:#614385;stroke-width:5;opacity:1
+}
+svg line{
+    stroke: cyan;
+}
+body{
+    background: #000428;
+}
+ul{
+    list-style-type: none;
+    align-items: center;
+    display: flex;
+    margin:0px;
+    
+}
+ul li{
+    margin-left: -10px;
+}
